@@ -1,0 +1,16 @@
+1.Install IDM
+2.Exit IDM completely (Make sure no IDM process runs in the background)
+3.Copy the exe file into the IDM folder (Overwrite existing files)
+4.Apply the Regdata reg file
+5.Start IDM
+
+
+IDM has not been registered for 15 days
+enter fake data in the registration window, for example:
+FName: Lifetime
+LName: Registered
+Email: info@tonec.com
+Serial: 9QNBL-L2641-Y7WVE-QEN3I
+
+
+NOTE: If you have fake serial issues use the "IDM Protection Key Cleaner"
